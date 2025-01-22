@@ -1,13 +1,18 @@
 ![Hey Everyone!](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=200&section=header&text=Hey%20Everyone!&fontSize=50&fontAlign=70&fontAlignY=40&desc=Welcome%20to%20My%20GitHub%20Profile!&descAlign=70&descAlignY=60)
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
-
-Hi there! 👋 I'm an **Intern Software Engineer** passionate about crafting innovative software solutions and learning new technologies. With a solid foundation in programming and database management, I enjoy developing efficient, scalable, and user-friendly applications.
+I'm an **Intern Software Engineer** passionate about crafting innovative software solutions and learning new technologies. With a solid foundation in programming and database management, I enjoy developing efficient, scalable, and user-friendly applications.
 
 ---
-<a href="https://www.instagram.com/anjali.kaushalya.12?utm_source=qr&igsh=MXA3YWFoa2J1cTU1Zw==">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;"/></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" style="margin: 0 10px;"/></a>
+  <a href="mailto:anjalikaushalya0827@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" style="margin: 0 10px;"/></a>
+</p>
+
+
 
 ## 🚀 About Me  
 
