@@ -8,7 +8,7 @@ I'm an **Intern Software Engineer** passionate about crafting innovative softwar
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-kaushalya-2b6910196" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;"/></a>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" style="margin: 0 10px;"/></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" style="margin: 0 10px;"/></a>
+ <a href="mailto:anjalikaushalya0827@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" style="margin: 0 10px;"/></a>
 </p>
 
 ---
