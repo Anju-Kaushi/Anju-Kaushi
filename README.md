@@ -11,8 +11,7 @@ I'm an **Intern Software Engineer** passionate about crafting innovative softwar
   <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" style="margin: 0 10px;"/></a>
 </p>
 
-
-
+---
 ## 🚀 About Me  
 
 - 💻 **Programming Languages**: C++, Java, SQL  
@@ -51,15 +50,15 @@ An interactive game developed in **C++** using object-oriented programming conce
 
 ## 📬 Let's Connect  
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://linkedin.com/in/anjali-kaushalya)  
 - 🌐 [Portfolio Website](https://your-portfolio.com)  
 - 📧 Email: anjalikaushalya0827@gmail.com
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjali&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali&layout=compact&theme=radical)
 
 ---
 
