@@ -5,7 +5,7 @@
 Hi there! 👋 I'm an **Intern Software Engineer** passionate about crafting innovative software solutions and learning new technologies. With a solid foundation in programming and database management, I enjoy developing efficient, scalable, and user-friendly applications.
 
 ---
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/anjali.kaushalya.12?utm_source=qr&igsh=MXA3YWFoa2J1cTU1Zw==">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
