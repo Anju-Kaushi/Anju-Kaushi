@@ -48,14 +48,6 @@ An interactive game developed in **C++** using object-oriented programming conce
 
 ---
 
-## 📬 Let's Connect  
-
-- 💼 [LinkedIn](https://linkedin.com/in/anjali-kaushalya)  
-- 🌐 [Portfolio Website](https://your-portfolio.com)  
-- 📧 Email: anjalikaushalya0827@gmail.com
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjali&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali&layout=compact&theme=radical)
